@@ -11,7 +11,7 @@
 
 <div align="center" >
 
-  <img height="250px" src="https://user-images.githubusercontent.com/86667062/227649321-ee04b49f-2271-420e-8d57-a0ed31c8f9f1.png"><br><br>
+  <img height="180px" src="https://github.com/LlynS2/Java_Challenges/assets/86667062/2265ddc9-6fd9-4d67-991a-bc2483952728"><br><br>
   
 </div>
 
