@@ -8,7 +8,7 @@
 </div> 
 
 <div align="center" >
-  <img height="180px" src="https://github.com/LlynS2/Java_Challenges/assets/86667062/2265ddc9-6fd9-4d67-991a-bc2483952728"><br><br>
+  <img height="180px" src="https://github.com/LlynS2/Java_Challenges/assets/86667062/eb72dfee-2d02-467b-be9b-bf9da35dca85"><br><br>
 </div><br>
 
 <div align="right">
